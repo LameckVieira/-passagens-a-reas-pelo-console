@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "-passagens-a-reas-pelo-console/1.0.0": {
+        "runtime": {
+          "-passagens-a-reas-pelo-console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "-passagens-a-reas-pelo-console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
